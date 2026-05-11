@@ -108,7 +108,3 @@ This course covers:
 ## Canvas Links
 
 - [Pacesetter Guide 937.1](https://perscholas.instructure.com/courses/3227/pages/pacesetter-guide-937-dot-1-introduction-to-apis-in-python)
-
----
-
-## Questions?

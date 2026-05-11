@@ -95,7 +95,3 @@ This course covers:
 ## Canvas Links
 
 - [Pacesetter Guide 937.2](https://perscholas.instructure.com/courses/3227/pages/pacesetter-guide-937-dot-2-large-language-models-llms-concepts)
-
----
-
-## Questions?

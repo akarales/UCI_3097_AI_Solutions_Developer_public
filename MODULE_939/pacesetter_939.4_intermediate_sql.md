@@ -74,7 +74,3 @@ FROM employees;
 ## Canvas Links
 
 - [Pacesetter Guide 939.4](https://perscholas.instructure.com/courses/3227/pages/pacesetter-guide-939-dot-4-intermediate-sql)
-
----
-
-## Questions?

@@ -118,7 +118,3 @@ This course covers AI fundamentals, machine learning concepts, neural networks, 
 ## Canvas Links
 
 - [Lesson 933.1 - Understanding Artificial Intelligence](https://perscholas.instructure.com/courses/3227/pages/lesson-933-dot-1-understanding-artificial-intelligence)
-
----
-
-## Questions?

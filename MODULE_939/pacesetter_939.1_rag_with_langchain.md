@@ -88,7 +88,3 @@ chunks = splitter.split_documents(docs)
 ## Canvas Links
 
 - [Pacesetter Guide 939.1](https://perscholas.instructure.com/courses/3227/pages/pacesetter-guide-939-dot-1-retrieval-augmented-generation-rag-with-langchain)
-
----
-
-## Questions?

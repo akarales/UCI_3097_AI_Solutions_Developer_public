@@ -95,7 +95,3 @@ def chat(user_message):
 ## Canvas Links
 
 - [Pacesetter Guide 938.4](https://perscholas.instructure.com/courses/3227/pages/pacesetter-guide-938-dot-4-prompt-engineering-with-the-openai-api)
-
----
-
-## Questions?

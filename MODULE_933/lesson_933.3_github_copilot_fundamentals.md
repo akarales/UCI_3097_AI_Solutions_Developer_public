@@ -87,7 +87,3 @@ This learning path covers:
 ## Canvas Links
 
 - [Lesson 933.3 - GitHub Copilot Fundamentals](https://perscholas.instructure.com/courses/3227/pages/lesson-933-dot-3-microsoft-learn-github-copilot-fundamentals)
-
----
-
-## Questions?

@@ -101,7 +101,3 @@ Per Scholas has a strict academic integrity policy. Plagiarism includes copying 
 ## Canvas Links
 
 - [Lesson 933.0 - Team Project Kickoff](https://perscholas.instructure.com/courses/3227/pages/lesson-933-dot-0-team-project-kickoff)
-
----
-
-## Questions?

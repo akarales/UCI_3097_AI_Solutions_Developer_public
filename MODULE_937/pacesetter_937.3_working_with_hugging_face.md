@@ -110,7 +110,3 @@ This course covers:
 ## Canvas Links
 
 - [Pacesetter Guide 937.3](https://perscholas.instructure.com/courses/3227/pages/pacesetter-guide-937-dot-3-working-with-hugging-face)
-
----
-
-## Questions?

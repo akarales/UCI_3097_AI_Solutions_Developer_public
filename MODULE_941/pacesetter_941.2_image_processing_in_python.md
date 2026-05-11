@@ -97,7 +97,3 @@ def prepare_image_for_api(image_path, max_size=1024):
 ## Canvas Links
 
 - [Pacesetter Guide 941.2](https://perscholas.instructure.com/courses/3227/pages/pacesetter-guide-941-dot-2-image-processing-in-python)
-
----
-
-## Questions?

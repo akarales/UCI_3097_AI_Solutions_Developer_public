@@ -98,7 +98,3 @@ print(response)
 ## Canvas Links
 
 - [Pacesetter Guide 938.5](https://perscholas.instructure.com/courses/3227/pages/pacesetter-guide-938-dot-5-working-with-llama-3)
-
----
-
-## Questions?

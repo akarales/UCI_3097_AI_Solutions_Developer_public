@@ -102,7 +102,3 @@ for chunk in stream:
 ## Canvas Links
 
 - [Pacesetter Guide 940.1](https://perscholas.instructure.com/courses/3227/pages/pacesetter-guide-940-dot-1-developing-ai-systems-with-the-openai-api)
-
----
-
-## Questions?

@@ -145,7 +145,3 @@ with model.chat_session():
 ## Canvas Links
 
 - [Lesson 938.7 - Install and Run LLMs Locally](https://perscholas.instructure.com/courses/3227/pages/lesson-938-dot-7-install-and-run-llms-locally)
-
----
-
-## Questions?

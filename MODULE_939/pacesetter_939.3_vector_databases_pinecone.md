@@ -73,7 +73,3 @@ results = index.query(vector=[0.1, 0.2, ...], top_k=5, include_metadata=True)
 ## Canvas Links
 
 - [Pacesetter Guide 939.3](https://perscholas.instructure.com/courses/3227/pages/pacesetter-guide-939-dot-3-vector-databases-for-embeddings-with-pinecone)
-
----
-
-## Questions?

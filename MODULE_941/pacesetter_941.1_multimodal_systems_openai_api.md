@@ -92,7 +92,3 @@ Image tokens are calculated based on image resolution:
 ## Canvas Links
 
 - [Pacesetter Guide 941.1](https://perscholas.instructure.com/courses/3227/pages/pacesetter-guide-941-dot-1-multi-modal-systems-with-the-openai-api)
-
----
-
-## Questions?

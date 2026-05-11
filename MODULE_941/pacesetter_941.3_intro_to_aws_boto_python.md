@@ -87,7 +87,3 @@ url = s3.generate_presigned_url(
 ## Canvas Links
 
 - [Pacesetter Guide 941.3](https://perscholas.instructure.com/courses/3227/pages/pacesetter-guide-941-dot-3-introduction-to-aws-boto-in-python)
-
----
-
-## Questions?

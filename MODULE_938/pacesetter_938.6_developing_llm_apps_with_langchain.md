@@ -123,7 +123,3 @@ chain_with_memory = RunnableWithMessageHistory(
 ## Canvas Links
 
 - [Pacesetter Guide 938.6](https://perscholas.instructure.com/courses/3227/pages/pacesetter-guide-938-dot-6-developing-llm-applications-with-langchain)
-
----
-
-## Questions?

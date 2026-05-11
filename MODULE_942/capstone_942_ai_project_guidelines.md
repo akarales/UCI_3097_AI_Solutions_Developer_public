@@ -143,7 +143,3 @@ Include:
 ## Canvas Links
 
 - [CAP 942 - Capstone Submission](https://perscholas.instructure.com/courses/3227/assignments/627624)
-
----
-
-## Questions?

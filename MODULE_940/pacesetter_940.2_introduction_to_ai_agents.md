@@ -107,7 +107,3 @@ def agent_loop(task, tools, max_steps=10):
 ## Canvas Links
 
 - [Pacesetter Guide 940.2](https://perscholas.instructure.com/courses/3227/pages/pacesetter-guide-940-dot-2-introduction-to-ai-agents)
-
----
-
-## Questions?

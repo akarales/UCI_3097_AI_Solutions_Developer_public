@@ -136,7 +136,3 @@ This course covers:
 ## Canvas Links
 
 - [Pacesetter Guide 937.5](https://perscholas.instructure.com/courses/3227/pages/pacesetter-guide-937-dot-5-working-with-the-openai-api)
-
----
-
-## Questions?

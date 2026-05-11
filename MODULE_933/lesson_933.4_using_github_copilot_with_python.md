@@ -106,7 +106,3 @@ After completing the Microsoft Learn module, complete the AI Coding Challenge as
 ## Canvas Links
 
 - [Lesson 933.4 - Using GitHub Copilot with Python](https://perscholas.instructure.com/courses/3227/pages/lesson-933-dot-4-using-github-copilot-with-python)
-
----
-
-## Questions?

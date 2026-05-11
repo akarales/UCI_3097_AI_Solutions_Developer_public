@@ -98,7 +98,3 @@ executor = AgentExecutor(
 ## Canvas Links
 
 - [Pacesetter Guide 940.3](https://perscholas.instructure.com/courses/3227/pages/pacesetter-guide-940-dot-3-designing-agentic-systems-with-langchain)
-
----
-
-## Questions?

@@ -89,7 +89,3 @@ Submit this screenshot as **POC 933.2.1** in Canvas.
 ## Canvas Links
 
 - [Lesson 933.2 - Introduction to Generative AI](https://perscholas.instructure.com/courses/3227/pages/lesson-933-dot-2-google-cloud-skills-boost-introduction-to-generative-ai)
-
----
-
-## Questions?

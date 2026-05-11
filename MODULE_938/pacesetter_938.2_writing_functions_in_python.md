@@ -92,7 +92,3 @@ def call_openai_api(prompt):
 ## Canvas Links
 
 - [Pacesetter Guide 938.2](https://perscholas.instructure.com/courses/3227/pages/pacesetter-guide-938-dot-2-writing-functions-in-python)
-
----
-
-## Questions?

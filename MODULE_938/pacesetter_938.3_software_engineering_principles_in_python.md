@@ -104,7 +104,3 @@ def test_format_system_prompt_empty():
 ## Canvas Links
 
 - [Pacesetter Guide 938.3](https://perscholas.instructure.com/courses/3227/pages/pacesetter-guide-938-dot-3-software-engineering-principles-in-python)
-
----
-
-## Questions?

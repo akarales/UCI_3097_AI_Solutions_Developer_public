@@ -66,7 +66,3 @@ Prompt engineering is the art and science of designing inputs that reliably prod
 ## Canvas Links
 
 - [Pacesetter Guide 938.1](https://perscholas.instructure.com/courses/3227/pages/pacesetter-guide-938-dot-1-understanding-prompt-engineering)
-
----
-
-## Questions?

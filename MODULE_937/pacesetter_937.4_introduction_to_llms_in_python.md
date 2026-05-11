@@ -113,7 +113,3 @@ This course covers:
 ## Canvas Links
 
 - [Pacesetter Guide 937.4](https://perscholas.instructure.com/courses/3227/pages/pacesetter-guide-937-dot-4-introduction-to-llms-in-python)
-
----
-
-## Questions?

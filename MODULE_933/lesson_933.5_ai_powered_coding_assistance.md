@@ -96,7 +96,3 @@ Google Colab provides a free, cloud-based Jupyter notebook environment that inte
 ## Canvas Links
 
 - [Lesson 933.5 - AI-Powered Coding Assistance](https://perscholas.instructure.com/courses/3227/pages/lesson-333-dot-5-ai-powered-coding-assistance-for-modern-developers-and-analysts)
-
----
-
-## Questions?

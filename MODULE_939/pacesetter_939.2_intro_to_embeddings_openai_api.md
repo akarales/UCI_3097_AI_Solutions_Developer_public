@@ -74,7 +74,3 @@ def cosine_similarity(a, b):
 ## Canvas Links
 
 - [Pacesetter Guide 939.2](https://perscholas.instructure.com/courses/3227/pages/pacesetter-guide-939-dot-2-introduction-to-embeddings-with-the-openai-api)
-
----
-
-## Questions?
