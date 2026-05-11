@@ -273,6 +273,15 @@ This document consolidates all links from every module's `all_links.md` file int
 
 ---
 
+## Course Surveys (REQUIRED)
+
+| Survey | Link |
+|--------|------|
+| **Mid-Course Survey** | [Mid-Course Survey](https://perscholas.instructure.com/courses/3227/assignments/627638) |
+| **End of Course Survey** | [End of Course Survey](https://perscholas.instructure.com/courses/3227/assignments/627625) |
+
+---
+
 ## Exit Feedback Links
 
 | Module | Link |
