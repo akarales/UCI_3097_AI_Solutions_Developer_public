@@ -51,11 +51,11 @@
   <circle cx="134" cy="105" r="2" fill="#03EF62" opacity="0.5"/>
 
   <!-- Text: AI SOLUTIONS -->
-  <text x="100" y="125" font-family="'Segoe UI', Arial, Helvetica, sans-serif" font-size="16" font-weight="700" fill="#FFFFFF" text-anchor="middle" letter-spacing="2">AI SOLUTIONS</text>
+  <text x="100" y="132" font-family="'Segoe UI', Arial, Helvetica, sans-serif" font-size="16" font-weight="700" fill="#FFFFFF" text-anchor="middle" letter-spacing="2">AI SOLUTIONS</text>
 
   <!-- Text: DEVELOPER -->
-  <text x="100" y="136" font-family="'Segoe UI', Arial, Helvetica, sans-serif" font-size="13" font-weight="600" fill="#03EF62" text-anchor="middle" letter-spacing="3">DEVELOPER</text>
+  <text x="100" y="148" font-family="'Segoe UI', Arial, Helvetica, sans-serif" font-size="13" font-weight="600" fill="#03EF62" text-anchor="middle" letter-spacing="3">DEVELOPER</text>
 
   <!-- Small Per Scholas text -->
-  <text x="100" y="147" font-family="'Segoe UI', Arial, Helvetica, sans-serif" font-size="9" font-weight="400" fill="#AAAAAA" text-anchor="middle" letter-spacing="1">PER SCHOLAS 2026</text>
+  <text x="100" y="162" font-family="'Segoe UI', Arial, Helvetica, sans-serif" font-size="9" font-weight="400" fill="#AAAAAA" text-anchor="middle" letter-spacing="1">PER SCHOLAS 2026</text>
 </svg>
