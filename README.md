@@ -1,7 +1,7 @@
 <p align="center">
   <img src="assets/perscholas-logo.png" alt="Per Scholas Logo" width="250"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/AI_Solutions-Developer-412991?style=for-the-badge&logo=openai&logoColor=white&labelColor=1C3C3C&color=412991" alt="AI Solutions Developer Badge" height="60"/>
+  <img src="assets/ai-solutions-developer-badge.svg" alt="AI Solutions Developer Badge" width="150"/>
 </p>
 
 <h1 align="center">UCI 3097: AI Solutions Developer</h1>
