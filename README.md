@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/ai_logo.jpg" alt="AI Solutions Developer" width="200"/>
+  <img src="assets/ai_logo_2.png" alt="AI Solutions Developer" width="200"/>
 </p>
 
 <p align="center">
