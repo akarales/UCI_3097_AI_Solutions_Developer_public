@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 220">
   <defs>
     <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" style="stop-color:#1C3C3C;stop-opacity:1" />
@@ -14,49 +14,48 @@
     </linearGradient>
   </defs>
 
-  <!-- Outer hexagon badge shape -->
-  <polygon points="100,8 185,54 185,146 100,192 15,146 15,54" fill="url(#bgGrad)" stroke="#03EF62" stroke-width="3"/>
+  <!-- Outer hexagon badge shape (center: 100,110) -->
+  <polygon points="100,15 187,62 187,158 100,205 13,158 13,62" fill="url(#bgGrad)" stroke="#03EF62" stroke-width="3"/>
 
-  <!-- Inner hexagon -->
-  <polygon points="100,22 172,62 172,138 100,178 28,138 28,62" fill="url(#innerGrad)" stroke="none" opacity="0.6"/>
+  <!-- Inner hexagon (center: 100,110) -->
+  <polygon points="100,28 175,70 175,150 100,192 25,150 25,70" fill="url(#innerGrad)" stroke="none" opacity="0.6"/>
 
-  <!-- AI Brain/Circuit Icon -->
-  <!-- Central circle (brain) -->
-  <circle cx="100" cy="75" r="28" fill="none" stroke="url(#accentGrad)" stroke-width="2.5"/>
+  <!-- AI Brain/Circuit Icon (center: 100,80) -->
+  <circle cx="100" cy="80" r="30" fill="none" stroke="url(#accentGrad)" stroke-width="2.5"/>
 
   <!-- Neural network nodes -->
-  <circle cx="100" cy="75" r="5" fill="#03EF62"/>
-  <circle cx="82" cy="63" r="3.5" fill="#00C9FF"/>
-  <circle cx="118" cy="63" r="3.5" fill="#00C9FF"/>
-  <circle cx="82" cy="87" r="3.5" fill="#00C9FF"/>
-  <circle cx="118" cy="87" r="3.5" fill="#00C9FF"/>
-  <circle cx="100" cy="55" r="3.5" fill="#FFD21E"/>
-  <circle cx="100" cy="95" r="3.5" fill="#FFD21E"/>
+  <circle cx="100" cy="80" r="5" fill="#03EF62"/>
+  <circle cx="81" cy="67" r="3.5" fill="#00C9FF"/>
+  <circle cx="119" cy="67" r="3.5" fill="#00C9FF"/>
+  <circle cx="81" cy="93" r="3.5" fill="#00C9FF"/>
+  <circle cx="119" cy="93" r="3.5" fill="#00C9FF"/>
+  <circle cx="100" cy="58" r="3.5" fill="#FFD21E"/>
+  <circle cx="100" cy="102" r="3.5" fill="#FFD21E"/>
 
   <!-- Neural connections -->
-  <line x1="100" y1="75" x2="82" y2="63" stroke="#03EF62" stroke-width="1.5" opacity="0.8"/>
-  <line x1="100" y1="75" x2="118" y2="63" stroke="#03EF62" stroke-width="1.5" opacity="0.8"/>
-  <line x1="100" y1="75" x2="82" y2="87" stroke="#03EF62" stroke-width="1.5" opacity="0.8"/>
-  <line x1="100" y1="75" x2="118" y2="87" stroke="#03EF62" stroke-width="1.5" opacity="0.8"/>
-  <line x1="100" y1="75" x2="100" y2="55" stroke="#FFD21E" stroke-width="1.5" opacity="0.8"/>
-  <line x1="100" y1="75" x2="100" y2="95" stroke="#FFD21E" stroke-width="1.5" opacity="0.8"/>
+  <line x1="100" y1="80" x2="81" y2="67" stroke="#03EF62" stroke-width="1.5" opacity="0.8"/>
+  <line x1="100" y1="80" x2="119" y2="67" stroke="#03EF62" stroke-width="1.5" opacity="0.8"/>
+  <line x1="100" y1="80" x2="81" y2="93" stroke="#03EF62" stroke-width="1.5" opacity="0.8"/>
+  <line x1="100" y1="80" x2="119" y2="93" stroke="#03EF62" stroke-width="1.5" opacity="0.8"/>
+  <line x1="100" y1="80" x2="100" y2="58" stroke="#FFD21E" stroke-width="1.5" opacity="0.8"/>
+  <line x1="100" y1="80" x2="100" y2="102" stroke="#FFD21E" stroke-width="1.5" opacity="0.8"/>
 
   <!-- Outer circuit traces -->
-  <line x1="82" y1="63" x2="68" y2="52" stroke="#03EF62" stroke-width="1" opacity="0.5"/>
-  <line x1="118" y1="63" x2="132" y2="52" stroke="#03EF62" stroke-width="1" opacity="0.5"/>
-  <line x1="82" y1="87" x2="68" y2="98" stroke="#03EF62" stroke-width="1" opacity="0.5"/>
-  <line x1="118" y1="87" x2="132" y2="98" stroke="#03EF62" stroke-width="1" opacity="0.5"/>
-  <circle cx="68" cy="52" r="2" fill="#03EF62" opacity="0.5"/>
-  <circle cx="132" cy="52" r="2" fill="#03EF62" opacity="0.5"/>
-  <circle cx="68" cy="98" r="2" fill="#03EF62" opacity="0.5"/>
-  <circle cx="132" cy="98" r="2" fill="#03EF62" opacity="0.5"/>
+  <line x1="81" y1="67" x2="66" y2="55" stroke="#03EF62" stroke-width="1" opacity="0.5"/>
+  <line x1="119" y1="67" x2="134" y2="55" stroke="#03EF62" stroke-width="1" opacity="0.5"/>
+  <line x1="81" y1="93" x2="66" y2="105" stroke="#03EF62" stroke-width="1" opacity="0.5"/>
+  <line x1="119" y1="93" x2="134" y2="105" stroke="#03EF62" stroke-width="1" opacity="0.5"/>
+  <circle cx="66" cy="55" r="2" fill="#03EF62" opacity="0.5"/>
+  <circle cx="134" cy="55" r="2" fill="#03EF62" opacity="0.5"/>
+  <circle cx="66" cy="105" r="2" fill="#03EF62" opacity="0.5"/>
+  <circle cx="134" cy="105" r="2" fill="#03EF62" opacity="0.5"/>
 
   <!-- Text: AI SOLUTIONS -->
-  <text x="100" y="128" font-family="'Segoe UI', Arial, Helvetica, sans-serif" font-size="14" font-weight="700" fill="#FFFFFF" text-anchor="middle" letter-spacing="2">AI SOLUTIONS</text>
+  <text x="100" y="138" font-family="'Segoe UI', Arial, Helvetica, sans-serif" font-size="16" font-weight="700" fill="#FFFFFF" text-anchor="middle" letter-spacing="2">AI SOLUTIONS</text>
 
   <!-- Text: DEVELOPER -->
-  <text x="100" y="148" font-family="'Segoe UI', Arial, Helvetica, sans-serif" font-size="12" font-weight="600" fill="#03EF62" text-anchor="middle" letter-spacing="3">DEVELOPER</text>
+  <text x="100" y="160" font-family="'Segoe UI', Arial, Helvetica, sans-serif" font-size="13" font-weight="600" fill="#03EF62" text-anchor="middle" letter-spacing="3">DEVELOPER</text>
 
   <!-- Small Per Scholas text -->
-  <text x="100" y="166" font-family="'Segoe UI', Arial, Helvetica, sans-serif" font-size="8" font-weight="400" fill="#AAAAAA" text-anchor="middle" letter-spacing="1">PER SCHOLAS 2026</text>
+  <text x="100" y="180" font-family="'Segoe UI', Arial, Helvetica, sans-serif" font-size="9" font-weight="400" fill="#AAAAAA" text-anchor="middle" letter-spacing="1">PER SCHOLAS 2026</text>
 </svg>

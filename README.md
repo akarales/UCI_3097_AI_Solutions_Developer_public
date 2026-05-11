@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="assets/ai_logo.jpg" alt="AI Solutions Developer" width="200"/>
+</p>
+
+<p align="center">
   <img src="assets/perscholas-logo.png" alt="Per Scholas Logo" width="250"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="assets/ai-solutions-developer-badge.svg" alt="AI Solutions Developer Badge" width="150"/>
